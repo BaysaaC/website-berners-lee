@@ -5,7 +5,7 @@ https://baysaaaa.github.io/website-berners-lee/
 01 July 2021
 
 # Project status (latest first):
-2021-07-02 - Completed version 1
+2021-07-02 - Completed version 1 <br>
 2021-07-01 - Initializing the README and index.html files 
 
 # Project type and goal:
